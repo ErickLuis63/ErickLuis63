@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ErickLuis63
 - 👀 I’m interested in programing.
-- 🌱 I’m currently learning JavaScript frameworks.
+- 🌱 I’m currently learning WordPress and PHP.
 - 📫 You can reach me using my e-mail.
 
 <!---
